@@ -22,6 +22,8 @@ endif::[]
 Web site developed for and by the students of the LP APSIO (IUT Blagnac, France)
 about Modeling for Mobile application.
 
+Check: https://lp-apsio.github.io/mobile-modeling-web-site-equipe-rouge/
+
 This is a template for the students' assignments.
 
 == Requirements
