@@ -20,4 +20,23 @@ iOS est un système d'exploitation lancé en 2008 par Apple.
 Il occupe une très grande partie du reste des parts de marché.
 
 À ce jour, trois autres OS sont basés sur iOS : watchOS pour l'Apple Watch, 
-iPadOS pour l'iPad et tvOS pour l'Apple TV.
+iPadOS pour l'iPad et tvOS pour l'Apple TV. 
+********LE TABLEAU***********
+
+
+
+********Conclusion*********** 
+Android reste à ce jour le système d'exploitation 
+mobile le plus utilisé par son accessibilité, son large éventail de prix pour 
+ses appareils. Notamment Android est open source contrairement à son rival iOs
+qui lui est propriétaire et propose des prix plus élevé.
+
+iOS est en contrepartit un système plus sécurisé et plus stable qu'Android.
+
+La création d'application iOS est plus contraignate qu'Android. Pour faire une
+application iOs, il faut avoir obligatoirement être sur MacOS.
+
+Il y a également une différence au niveau de la diffusion, iOs vas etre sous forme 
+d'un abonnement annuel tandis qu'avec Android, il faut payer pour proposer
+des applications.
+
