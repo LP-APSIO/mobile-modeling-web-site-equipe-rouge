@@ -24,13 +24,6 @@ Projet de l'équipe rouge LPAPSIO 2020-2021
 Site: https://lp-apsio.github.io/mobile-modeling-web-site-equipe-rouge/
 
 
-== Requirements
-
-You'll need:
-
-* [ ] A Github account  
-* [ ] A "Git Bash" terminal if you use Window$
-
 
 == Contributors
 - mailto:clement.barberis@etu.univ-tlse2.fr[BARBERIS Clément]
