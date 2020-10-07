@@ -52,5 +52,19 @@ Try the following command to check your git environment:
 ....
 
 == Contributors
-
+- [BARBERIS Clément]
+- [Esquirol Clément]
+- [Mirra Mathias]
+- [PORRAS David]
+- [Lucas Pillon]
+- [Carlota VIOLETTE]
+- [Paul Simonella]
+- [Eloïse de P]
+- [Nicolas C-P]
+- [Florian Silot]
+- [Bonnet Nathan]
+- [Aurélien Grassia]
+- [Fraj Benoît]
+- [Mestre Rémy]
+- [Rumeau Maxime]
 - mailto:jbruel@gmail.com[Jean-Michel Bruel]
