@@ -1,0 +1,4 @@
+
+public class Quizz1 {
+	String _mdata = "A data";
+}

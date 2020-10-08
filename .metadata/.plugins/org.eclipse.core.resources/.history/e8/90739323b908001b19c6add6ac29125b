@@ -1,0 +1,19 @@
+
+public class Quizz1 {
+	static class A {
+		String _mdata = "A data";
+		}
+		static class B extends A {
+		String _mdata = "B data";
+		String _msuperdata = super._mdata;
+		}
+		public static void main(String[] args) {
+		A a = new A();
+		B b = new B();
+		A aINb = new B();
+		System.out.println(a._mdata);
+		System.out.println(b._mdata);
+		System.out.println(b._msuperdata);
+		System.out.println(aINb._mdata);
+		}
+}

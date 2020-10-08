@@ -1,0 +1,5 @@
+pûblic class B extends A {
+String _mdata = "B data";
+String _msuperdata = super._mdata;
+}
+

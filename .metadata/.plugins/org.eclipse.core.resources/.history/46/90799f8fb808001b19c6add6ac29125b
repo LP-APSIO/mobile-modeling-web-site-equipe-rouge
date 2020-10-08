@@ -1,0 +1,5 @@
+public class b extends Quizz1 {
+String _mdata = "B data";
+String _msuperdata = super._mdata;
+}
+

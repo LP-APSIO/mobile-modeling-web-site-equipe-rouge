@@ -1,0 +1,6 @@
+
+public class Quizz1 {
+		String getData() {
+		return "A data";
+		}
+}
